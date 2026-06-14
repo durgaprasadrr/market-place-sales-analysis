@@ -65,6 +65,4 @@ Provided a single interactive dashboard, saving hours of manual analysis and imp
 
 ---
 
-## 📌 Contact
 
-- LinkedIn: [Ghofran Ghanmi](https://www.linkedin.com/in/ghofran-ghanmi/)
